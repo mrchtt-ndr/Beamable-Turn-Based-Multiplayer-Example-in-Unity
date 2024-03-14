@@ -1,5 +1,4 @@
 # Beamable-Turn-Based-Multiplayer-Example-in-Unity
-A simple turn-based multiplayer system for Beamable
 
 This project provides a simple and efficient solution for implementing turn-based multiplayer functionality using Beamable in Unity. While Beamable is primarily designed for real-time multiplayer, this example demonstrates how to leverage its notification service and a custom microservice to create a seamless turn-based multiplayer experience.
 
