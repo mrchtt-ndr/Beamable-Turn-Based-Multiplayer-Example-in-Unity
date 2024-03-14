@@ -1,0 +1,8 @@
+{
+    "cid": "1675627346064384",
+    "alias": "andrea-marchetti",
+    "pid": "DE_1724958169927685",
+    "platform": "",
+    "socket": "",
+    "containerPrefix": ""
+}
